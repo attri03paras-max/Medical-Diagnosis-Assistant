@@ -1,1 +1,9 @@
-
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+sentence-transformers
+huggingface-hub
+llama-cpp-python
+pymupdf
+jupyter
